@@ -12,13 +12,7 @@ git commit -m "Commit inicial do projeto"
 git remote add origin https://github.com/usuario/repositorio.git
 git push -u origin master
 
-# Nome do Projeto
 
-## Descrição
-Este é um projeto que faz XYZ.
-
-## Instalação
-Para rodar o projeto, utilize os seguintes comandos:
 ```bash
 git clone https://github.com/usuario/repositorio.git
 cd repositorio
