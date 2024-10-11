@@ -1,0 +1,41 @@
+/projetos-academicos
+/projetos-pessoais
+/documentacao
+/exemplos
+README.md
+LICENSE
+
+git init
+git add .
+git commit -m "Commit inicial do projeto"
+
+git remote add origin https://github.com/usuario/repositorio.git
+git push -u origin master
+
+# Nome do Projeto
+
+## Descrição
+Este é um projeto que faz XYZ.
+
+## Instalação
+Para rodar o projeto, utilize os seguintes comandos:
+```bash
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
+python main.py
+
+python main.py
+
+
+### 4. Colaboração e Pull Requests
+
+#### Fork de Repositório Público:
+- Fazer o fork de um repositório público no GitHub.
+- Realizar uma alteração significativa, como corrigir um bug ou adicionar um `README.md`.
+- Enviar um pull request para o repositório original.
+
+#### Colaboração com Colegas:
+- Usar branches para separar funcionalidades:
+  ```bash
+  git checkout -b minha-feature
+
